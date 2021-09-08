@@ -20,7 +20,7 @@ Berikut langkah-langkahnya secara singkat:
 
 
 ----
-## Time to GO CODE ;)
+## Baris Perintahnya ;)
 
 NB: gunakan `git --help` untuk melihat perintah-perintah git lainnya.
 
